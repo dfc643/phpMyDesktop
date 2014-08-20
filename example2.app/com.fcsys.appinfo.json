@@ -1,0 +1,8 @@
+{
+	"application":"youtube",
+	"title":"YouTube",
+	"icon":"icon.png",
+	"exec":"https://www.youtube.com",
+	"width":800,
+	"height":480
+}

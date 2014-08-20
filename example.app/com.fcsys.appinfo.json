@@ -1,0 +1,8 @@
+{
+	"application":"download",
+	"title":"Downloader",
+	"icon":"icon.png",
+	"exec":"index.html",
+	"width":800,
+	"height":480
+}
